@@ -16,7 +16,7 @@
     margin-top: 4px;
 }
 
-.container {
+.container-lg {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -49,3 +49,7 @@ footer {
     position: relative;
     bottom: 0;
 }
+
+a {
+    text-decoration: underline;
+  }  
